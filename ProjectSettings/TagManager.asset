@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RenleiPlayer
+  - ZomPlayer
+  - Gun
+  - Map
+  - Floor
+  - RenwuUI
+  - FxTemporaire
+  - hand
+  - Gunlow
+  - yincang
+  - GunUI
+  - LobbyGun
+  - Dun
+  - bangzi
+  - GunFu
+  - hannd
+  - shouleiBoom
+  - Grab
+  - AIHand
+  - AIzom
+  - Reddot
+  - Lazer
+  - MP7Gun
+  - medical
+  - BujiBox
+  - ToolsUI
+  - SkyboxCamera
+  - ZomUI
+  - ZomTools
+  - JGBoom
+  - DoorB
+  - ZJDQ
+  - ZJDM
+  - ZBAI
+  - ZBAIhand
+  - CFAIP
+  - PeiJUI
+  - ZBPeiJUI
+  - ZBGunUI
+  - ZBLevelUI
+  - XRhand
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ZBUI
+  - 
+  - benti
+  - Gun
+  - Map
+  - LowGun
+  - Boom
+  - renlei
+  - Jiguan
+  - sliceableLayer
+  - weapon
+  - zomlobby
+  - AIzom
+  - hand
+  - tizi0
+  - tizi1
+  - tizi2
+  - JockeyHand
+  - BossAI
+  - jianzhu
+  - XRHand
+  - Head
+  - shenti
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

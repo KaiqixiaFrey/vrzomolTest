@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Lobby.unity
+    guid: d251768ea806770489e82c2b604b6aca
+  - enabled: 1
+    path: Assets/Scene/Dust.unity
+    guid: 1359d34d59ab7d14daac529945c4dbe1
+  - enabled: 1
+    path: Assets/Scene/italy.unity
+    guid: 8b2ae1df265fe734183fe96424c41a15
+  - enabled: 1
+    path: Assets/Scene/72.unity
+    guid: c2022355e3309b5468752017eb010b28
+  - enabled: 1
+    path: Assets/Scene/de_nuke.unity
+    guid: b7bde437bd91e0443b4657dc42738d74
+  - enabled: 1
+    path: Assets/Scene/Escape3.unity
+    guid: 49767ee8406bb8c46b9326f6bb8697b8
+  - enabled: 1
+    path: Assets/Scene/Escape2.unity
+    guid: 7d883326bb1a3e34b8a2341737481954
+  - enabled: 1
+    path: Assets/Scene/Escape4.unity
+    guid: 1f8f7a2f114c50e4fb9b0275acd32813
+  - enabled: 1
+    path: Assets/Scene/Escape5.unity
+    guid: c5a873d3bac06a7408b75633cb124bed
+  - enabled: 1
+    path: Assets/Scene/kezhan.unity
+    guid: 0afdc914048205640b610feabb87213f
+  - enabled: 1
+    path: Assets/Scene/DZBLoby.unity
+    guid: 9a5c2ad001d673b4b93a8aa67c918416
+  - enabled: 1
+    path: Assets/Scene/SZLoby.unity
+    guid: 405926f3da293fa40b111cb19306817c
+  - enabled: 1
+    path: Assets/Scene/YZXLY.unity
+    guid: 774a5341357a57e44bc4593086f81a14
+  - enabled: 1
+    path: Assets/Scene/SHWJ2.unity
+    guid: f5e059a55cf33e34dbaaa7be1b880e35
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2192af8fda8746640a9dc61f63adde4d,
+      type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: f1ab2b9d7a8d8484a830cdc4fa9ca172,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 3adcb3233508f5d478159c8153aca3de,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 70f2e7505d9e5464eb7ab16ae77ec47f,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d31cad9cd6e33ff49bf7f99f9ed34afc,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 735a698846e2dd745bfdbe5c5db577c8,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: a3dcd5553f9b0ed4697992e2cd05e623,
+      type: 2}
